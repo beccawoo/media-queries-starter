@@ -364,7 +364,7 @@ p{
 @media screen and (min-width: 700px){
     header{
         flex-wrap: nowrap;
-        padding: 3rem, 1rem, 2rem;
+        padding: 3rem 1rem 2rem;
     }
 
     header > a{
